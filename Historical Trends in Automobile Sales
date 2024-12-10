@@ -1,4 +1,4 @@
-# Automobile Sales Dashboard
+# Historical Trends in Automobile Sales
 
 This project is a Dash web application designed to visualize and analyze automobile sales data. It provides tools for users to filter and explore data based on date ranges, chart types, and various metrics. The application is built using Dash for web interactivity, Plotly for data visualization, and dash_bootstrap_components for a responsive, attractive design.
 
