@@ -1,0 +1,77 @@
+{
+  "preparation": {
+    "weekly": [
+      {
+        "id": "prep_week_1",
+        "title": "مراجعة مخارج الحروف",
+        "description": "تمارين على مخارج الحروف وصفاتها لمدة 10 دقائق",
+        "ai_mode": "reading_validation",
+        "verses": [
+          { "surah": "الفاتحة", "from": 1, "to": 7 }
+        ]
+      }
+    ],
+    "nightly": [
+      {
+        "id": "prep_night_1",
+        "title": "تسخين الصوت وتمارين نفس",
+        "description": "تمارين تنفس واستعداد للقراءة لمدة 5 دقائق",
+        "ai_mode": "reading_validation",
+        "verses": [
+          { "surah": "الإخلاص", "from": 1, "to": 4 }
+        ]
+      }
+    ],
+    "pre_session": [
+      {
+        "id": "prep_pre_1",
+        "title": "قراءة بطيئة مركزة",
+        "description": "قراءة آيات قصيرة بتركيز على النون الساكنة",
+        "ai_mode": "reading_validation",
+        "verses": [
+          { "surah": "البقرة", "from": 1, "to": 5 }
+        ]
+      }
+    ]
+  },
+  "memorization": [
+    {
+      "id": "mem_1",
+      "title": "حفظ سورة الملك 1-10",
+      "ai_mode": "memorization_check",
+      "verses": [
+        { "surah": "الملك", "from": 1, "to": 10 }
+      ]
+    }
+  ],
+  "near_review": [
+    {
+      "id": "near_1",
+      "title": "مراجعة سورة يس 1-20",
+      "ai_mode": "memorization_check",
+      "verses": [
+        { "surah": "يس", "from": 1, "to": 20 }
+      ]
+    }
+  ],
+  "far_review": [
+    {
+      "id": "far_1",
+      "title": "مراجعة سورة الكهف كاملة",
+      "ai_mode": "memorization_check",
+      "verses": [
+        { "surah": "الكهف", "from": 1, "to": 110 }
+      ]
+    }
+  ],
+  "daily_recitation": [
+    {
+      "id": "daily_1",
+      "title": "ورد اليوم: جزء عم",
+      "ai_mode": "reading_validation",
+      "verses": [
+        { "surah": "النبأ", "from": 1, "to": 40 }
+      ]
+    }
+  ]
+}
