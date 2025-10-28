@@ -1,0 +1,58 @@
+{
+  "preparation": {
+    "weekly": [
+      {
+        "id": "prep_weekly_1",
+        "title": "مراجعة أحكام التجويد الأسبوعية",
+        "ai_mode": "reading_validation",
+        "pages": ["النور: 1-20", "الملك: 1-15"]
+      }
+    ],
+    "nightly": [
+      {
+        "id": "prep_nightly_1",
+        "title": "تسخين صوتي خفيف قبل النوم",
+        "ai_mode": "reading_validation",
+        "pages": ["الفاتحة", "الإخلاص"]
+      }
+    ],
+    "pre": [
+      {
+        "id": "prep_pre_1",
+        "title": "قراءة تمهيدية قبل الحلقة",
+        "ai_mode": "reading_validation",
+        "pages": ["البقرة: 1-5", "البقرة: 6-16"]
+      }
+    ]
+  },
+  "memorization": {
+    "today": [
+      {
+        "id": "mem_1",
+        "title": "حفظ جديد اليوم",
+        "ai_mode": "memorization_check",
+        "pages": ["يس: 1-12", "يس: 13-20"]
+      }
+    ]
+  },
+  "near_review": {
+    "today": [
+      {
+        "id": "near_1",
+        "title": "مراجعة القريب",
+        "ai_mode": "memorization_check",
+        "pages": ["الكهف: 1-10"]
+      }
+    ]
+  },
+  "far_review": {
+    "today": [
+      {
+        "id": "far_1",
+        "title": "مراجعة البعيد",
+        "ai_mode": "memorization_check",
+        "pages": ["يوسف: 1-15"]
+      }
+    ]
+  }
+}
